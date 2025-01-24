@@ -11,6 +11,7 @@
   <img src="https://img.shields.io/badge/My%20Portfolio-8E44AD?style=for-the-badge&logo=internetexplorer&logoColor=white" alt="Portfolio Website" />
 </p>
 
+---
 
 <p align="center">
   👨‍💻 I'm a data engineer with a passion for building scalable and efficient data pipelines.
@@ -22,8 +23,10 @@
   💡 Outside of work, I enjoy watching soccer, playing pool, and trying out new technologies!
 </p>
 
+---
 
 <h3 align="center">SKILLS AND TOOLS:</h3>
+<hr>
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
@@ -32,5 +35,4 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="Google Cloud" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/aws/aws-original.svg" alt="AWS" width="40" height="40"/>
 </p>
