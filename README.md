@@ -1,5 +1,5 @@
 <h1 align="center">Hi! I'm Anh Bui <img src="https://em-content.zobj.net/thumbs/120/apple/354/waving-hand_1f44b.png" alt="wave" width="30"/></h1>
-<h3 align="center">A passionate Data Engineer from Vietnam</h3>
+<h3 align="center">A passionate Data Engineer from Vietnam 🇻🇳</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/anh-nt-bui/" target="_blank">
