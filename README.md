@@ -11,7 +11,6 @@
   <img src="https://img.shields.io/badge/My%20Portfolio-8E44AD?style=for-the-badge&logo=internetexplorer&logoColor=white" alt="Portfolio Website" />
 </p>
 
----
 
 <p align="center">
   👨‍💻 I'm a data engineer with a passion for building scalable and efficient data pipelines.
@@ -20,10 +19,9 @@
   🌏 Originally from Vietnam, I love solving complex problems, coding, and contributing to open-source projects.
 </p>
 <p align="center">
-  💡 Outside of work, I enjoy exploring the outdoors, reading, and trying out new technologies!
+  💡 Outside of work, I enjoy watching soccer, playing pool, and trying out new technologies!
 </p>
 
----
 
 <h3 align="center">SKILLS AND TOOLS:</h3>
 <p align="center">
