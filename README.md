@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Anh Bui</h1>
+<h1 align="center">Hi, I'm Anh Bui 👨🏼‍💻</h1>
 <h3 align="center">A passionate Data Engineer from Vietnam</h3>
 
 <h3 align="left">Connect with me:</h3>
