@@ -13,16 +13,18 @@
 
 
 <p align="center">
-  👨‍💻 I'm a data engineer with a passion for building scalable and efficient data pipelines.
+  <b>👨‍💻 I'm a data engineer with a passion for building scalable and efficient data pipelines.</b>
 </p>
 <p align="center">
-  🌏 Originally from Vietnam, I love solving complex problems, coding, and contributing to open-source projects.
+  <b>🌏 Originally from Vietnam, I love solving complex problems, coding, and contributing to open-source projects.</b>
 </p>
 <p align="center">
-  💡 Outside of work, I enjoy watching soccer, playing pool, and trying out new technologies!
+  <b>💡 Outside of work, I enjoy watching soccer, playing pool, and trying out new technologies!</b>
 </p>
 
-<h1 align="center">SKILLS AND TOOLS:</h1>
+
+<h4 align="center">SKILLS AND TOOLS:</h4>
+<hr>
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
