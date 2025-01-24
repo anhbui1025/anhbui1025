@@ -22,8 +22,7 @@
   💡 Outside of work, I enjoy watching soccer, playing pool, and trying out new technologies!
 </p>
 
-
-
+---------
 
 <h3 align="center">SKILLS AND TOOLS:</h3>
 <p align="center">
