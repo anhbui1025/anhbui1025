@@ -22,8 +22,7 @@
   💡 Outside of work, I enjoy watching soccer, playing pool, and trying out new technologies!
 </p>
 
-<h3 align="center">SKILLS AND TOOLS:</h3>
-<hr>
+<h1 align="center">SKILLS AND TOOLS:</h1>
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
