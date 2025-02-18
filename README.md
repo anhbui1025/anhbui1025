@@ -7,10 +7,6 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/My%20Portfolio-8E44AD?style=for-the-badge&logo=internetexplorer&logoColor=white" alt="Portfolio Website" />
-</p>
-
 
 <p align="center">
   <b>👨‍💻 I'm a data engineer with a passion for building scalable and efficient data pipelines.</b>
