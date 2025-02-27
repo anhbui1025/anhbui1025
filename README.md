@@ -32,4 +32,4 @@
 [![Apache Cassandra](https://img.shields.io/badge/Apache%20Cassandra-1287B1?style=for-the-badge&logo=apachecassandra&logoColor=white)](https://cassandra.apache.org/)
 [![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)](https://airflow.apache.org/)
 [![dbt](https://img.shields.io/badge/dbt-FA5C2F?style=for-the-badge&logo=dbt&logoColor=white)](https://www.getdbt.com/)
-[![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)](https://www.tableau.com/)
+[![Tableau](https://img.shields.io/badge/Tableau-F2C811?style=for-the-badge&logo=tableau&logoColor=black)](https://www.tableau.com/)
